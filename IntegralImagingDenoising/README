@@ -1,9 +1,10 @@
-Please fill out all TODO sections and make the code work. Start by looking at the the two files.
+#All files are commented.
+Instructions:
 
 basicSection.m
+Script contained SSD-based templated matching. 
+
+
+
 advancedSection.m
-
-Good luck :)
-
-
-Note: Test images from Image Processing Online. 
+Script for NLM denoising. Place test images into directory Images.
