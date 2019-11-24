@@ -11,7 +11,7 @@ All files are commented.
 
 ## Results
 # Raw input
-![Before](https://github.com/pleaseRedo/Image-Processing/edit/master/IntegralImagingDenoising/images/alleyNoisy_sigma20.png)
+![Before](https://github.com/pleaseRedo/Image-Processing/blob/master/IntegralImagingDenoising/images/alleyNoisy_sigma20.png)
 
 # Denoised img
 ![After](https://github.com/pleaseRedo/Image-Processing/edit/master/IntegralImagingDenoising/8outputs/7.alleyDenoised_sigma15_h0.55_templatewidth_3_window_21_Integral.png)
