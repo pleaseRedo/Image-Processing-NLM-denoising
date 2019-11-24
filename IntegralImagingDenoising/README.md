@@ -1,9 +1,7 @@
-## Instructions:
+## An Implementation of Non-local-mean image denoising algorithm
 
 # basicSection.m
 Script contained SSD-based templated matching. 
-
-
 
 # advancedSection.m
 Script for NLM denoising. Place test images into directory Images.
